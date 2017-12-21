@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScreenOrientation manually</string>
+    <string name="text_portrait">To set window portrait</string>
+    <string name="text_landscape">To set window landscape</string>
+    <string name="button_portrait">Portrait</string>
+    <string name="button_landscape">Landscape</string>
+</resources>
